@@ -103,3 +103,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2aa903', end
   text-align: center;
   padding-top: 7vh;
 }
+.x{
+
+  padding: 10px;
+  text-align: center;
+  padding-top: 3vh;
+  font-family: 'Scada', sans-serif;
+}
+}
