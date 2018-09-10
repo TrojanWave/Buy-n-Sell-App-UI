@@ -44,7 +44,8 @@
   background: linear-gradient(to right, #0319a9 0%,#021590 44%,#000f6e 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0319a9', endColorstr='#000f6e',GradientType=1 );
 }
-.btn-home4{
+
+.btn-home5{
   border-radius: 10vh;
   position: relative;
   margin: 0 auto;
@@ -59,18 +60,11 @@ background: -webkit-linear-gradient(left, #2aa903 0%,#239002 99%,#239002 99%,#1a
 background: linear-gradient(to right, #2aa903 0%,#239002 99%,#239002 99%,#1a6e00 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2aa903', endColorstr='#1a6e00',GradientType=1 );
 }
-.btn-home5{
-  border-radius: 10vh;
-  position: relative;
-  margin: 0 auto;
+
+.Description{
+  text-align: left;
   padding: 10px;
-  text-align: center;
-  width: 10vh; height: 10vh;
   vertical-align: middle;
-  padding-top: 3vh;
-  background: #3f4c6b;
-  background: -moz-linear-gradient(left, #3f4c6b 0%, #3f4c6b 100%);
-  background: -webkit-linear-gradient(left, #3f4c6b 0%,#3f4c6b 100%);
-  background: linear-gradient(to right, #3f4c6b 0%,#3f4c6b 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3f4c6b', endColorstr='#3f4c6b',GradientType=1 );
+   
+
 }
