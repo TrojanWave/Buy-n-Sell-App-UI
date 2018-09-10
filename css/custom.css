@@ -98,3 +98,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2aa903', end
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#299a0b', endColorstr='#299a0b',GradientType=1 );
 
 }
+.cat{
+  padding: 10px;
+  text-align: center;
+  padding-top: 7vh;
+}
