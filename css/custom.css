@@ -104,3 +104,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2aa903', end
   padding-top: 3vh;
   font-family: 'Scada', sans-serif;
 }
+.wish{
+   height:200px;
+   width:200px;
+   padding-top: 2vh;
+   padding-bottom: 2vh;
+   padding-left: 2vh;
+   padding-right: 2vh;
+}
