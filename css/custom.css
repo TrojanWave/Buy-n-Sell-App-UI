@@ -63,39 +63,33 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2aa903', end
 
 .Description{
   text-align:left;
-  padding: 10px;
+  padding: 5px;
   vertical-align: middle;
 
 
 }
 .btn-add1{
-  border-radius: 5vh;
+
   border-width: thick;
   border-color: black;
   position: relative;
   margin: 0 auto;
   padding: 10px;
   text-align: center;
-  width: 10vh; height: 10vh;
+  width: 20vh; height:5vh;
   vertical-align: middle;
-  padding-top: 3vh;
   background: #FFFFFF
 
 }
 .btn-add2{
-  border-radius: 5vh;
+
   position: relative;
   margin: 0 auto;
   padding: 10px;
   text-align: center;
-  width: 10vh; height: 10vh;
+  width: 20vh; height: 5vh;
   vertical-align: middle;
-  padding-top: 3vh;
-  background: #299a0b;
-  background: -moz-linear-gradient(left, #299a0b 0%, #299a0b 100%);
-  background: -webkit-linear-gradient(left, #299a0b 0%,#299a0b 100%);
-  background: linear-gradient(to right, #299a0b 0%,#299a0b 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#299a0b', endColorstr='#299a0b',GradientType=1 );
+  background: #60635F;
 
 }
 .cat{
@@ -109,5 +103,4 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2aa903', end
   text-align: center;
   padding-top: 3vh;
   font-family: 'Scada', sans-serif;
-}
 }
