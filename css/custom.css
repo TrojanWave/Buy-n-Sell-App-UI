@@ -1,12 +1,12 @@
 .btn-home1{
-  border-radius: 5vh;
+  border-radius: 20vh;
   position: relative;
   margin: 0 auto;
   padding: 10px;
   text-align: center;
-  width: 10vh; height: 10vh;
+  width: 7vh; height: 7vh;
   vertical-align: middle;
-  padding-top: 3vh;
+  padding-top: 2vh;
   background: #a90329;
   background: -moz-linear-gradient(left, #a90329 0%, #8f0222 92%, #6d0019 100%);
   background: -webkit-linear-gradient(left, #a90329 0%,#8f0222 92%,#6d0019 100%);
@@ -15,12 +15,12 @@
 }
 
 .btn-home2{
-  border-radius: 10vh;
+  border-radius: 20vh;
   position: relative;
   margin: 0 auto;
   padding: 10px;
   text-align: center;
-  width: 10vh; height: 10vh;
+  width: 7vh; height: 7vh;
   vertical-align: middle;
   padding-top: 2vh;
   background: #03a982;
@@ -30,14 +30,14 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#03a982', endColorstr='#006e54',GradientType=1 );
 }
 .btn-home3{
-  border-radius: 10vh;
+  border-radius: 20vh;
   position: relative;
   margin: 0 auto;
   padding: 10px;
   text-align: center;
-  width: 10vh; height: 10vh;
+  width: 7vh; height: 7vh;
   vertical-align: middle;
-  padding-top: 3vh;
+  padding-top: 2vh;
   background: #0319a9;
   background: -moz-linear-gradient(left, #0319a9 0%, #021590 44%, #000f6e 100%);
   background: -webkit-linear-gradient(left, #0319a9 0%,#021590 44%,#000f6e 100%);
@@ -46,18 +46,30 @@
 }
 
 .btn-home5{
-  border-radius: 10vh;
+  border-radius: 20vh;
   position: relative;
   margin: 0 auto;
   padding: 10px;
   text-align: center;
-  width: 10vh; height: 10vh;
+  width: 7vh; height: 7vh;
   vertical-align: middle;
-  padding-top: 3vh;
+  padding-top: 2vh;
   background: #2aa903;
 background: -moz-linear-gradient(left, #2aa903 0%, #239002 99%, #239002 99%, #1a6e00 100%);
 background: -webkit-linear-gradient(left, #2aa903 0%,#239002 99%,#239002 99%,#1a6e00 100%);
 background: linear-gradient(to right, #2aa903 0%,#239002 99%,#239002 99%,#1a6e00 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2aa903', endColorstr='#1a6e00',GradientType=1 );
+}
+.btn-home6{
+  border-radius: 20vh;
+  position: relative;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+  width: 7vh; height: 7vh;
+  vertical-align: middle;
+  padding-top: 2vh;
+  background: #C7700A;
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2aa903', endColorstr='#1a6e00',GradientType=1 );
 }
 
